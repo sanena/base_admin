@@ -8,3 +8,5 @@ insert a line for testing conflict fix
 
 feature 1 modify the file named "README.md"
 feature2 is modify the file named "README.md"
+
+try again feature1
